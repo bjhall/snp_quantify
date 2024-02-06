@@ -1,4 +1,4 @@
-#SNP quantify
+# SNP quantify
 
 Quantify mixtures of genomes with known SNP profiles with very low-pass sequencing data
 
@@ -6,3 +6,4 @@ Quantify mixtures of genomes with known SNP profiles with very low-pass sequenci
 ./snp_quantify.py multi_vcf.vcf.gz data.bam
 ```
 
+![Evaluation at different total read numbers](images/evaluation.png)
